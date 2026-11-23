@@ -1,0 +1,68 @@
+"analysis","outcome","contrast","k","n","est","lo","hi","pval","I2","tau2","pi_lo","pi_hi"
+"Primary (all-comer, Box-Cox)","LOS","DC_vs_FC",19,2460,6.595,1.698,11.492,0.011,71.834,54.98,-9.734,22.925
+"Wan conversion (Hawkins excluded)","LOS","DC_vs_FC",18,2039,5.754,-0.617,12.125,0.074,71.977,78.199,-13.961,25.469
+"Simple-stratum data only","LOS","DC_vs_FC",6,625,6.581,-2.541,15.703,0.123,80.87,56.487,-14.784,27.946
+"Randomised trials only","LOS","DC_vs_FC",2,92,-1.845,-67.632,63.943,0.782,23.785,14.934,-83.937,80.248
+"Non-randomised only","LOS","DC_vs_FC",17,2368,7.417,2.201,12.632,0.008,71.807,51.297,-8.637,23.471
+"Excluding approximated n (Gurien, Hawkins)","LOS","DC_vs_FC",17,1506,6.59,0.816,12.363,0.028,74.15,73.239,-12.449,25.628
+"Excluding converted medians (reported mean/SD only)","LOS","DC_vs_FC",11,1216,6.006,-0.074,12.086,0.052,55.073,30.317,-7.686,19.699
+"Primary (all-comer, Box-Cox)","LOS","SL_vs_FC",8,416,1.379,-6.174,8.932,0.679,60.717,36.802,-14.833,17.59
+"Wan conversion (Hawkins excluded)","LOS","SL_vs_FC",8,416,0.62,-6.184,7.425,0.835,60.756,27.896,-13.602,14.843
+"Simple-stratum data only","LOS","SL_vs_FC",5,255,1.792,-10.117,13.702,0.697,71.431,45.517,-20.405,23.989
+"Non-randomised only","LOS","SL_vs_FC",7,377,-0.284,-6.468,5.9,0.914,45.712,15.776,-11.804,11.236
+"Excluding approximated n (Gurien, Hawkins)","LOS","SL_vs_FC",8,416,1.379,-6.174,8.932,0.679,60.717,36.802,-14.833,17.59
+"Excluding converted medians (reported mean/SD only)","LOS","SL_vs_FC",4,180,-0.743,-23.391,21.905,0.923,68.923,140.615,-44.755,43.269
+"Including flap/plastic closure (Emami, Orion)","LOS","SL_vs_FC",9,981,0.839,-5.611,7.29,0.772,55.85,28.372,-13.034,14.713
+"Primary (all-comer, Box-Cox)","VD","DC_vs_FC",16,2430,2.851,0.11,5.592,0.043,94.737,20.272,-7.13,12.831
+"Wan conversion (Hawkins excluded)","VD","DC_vs_FC",15,2012,1.786,-1.419,4.991,0.252,94.1,26.168,-9.644,13.216
+"Simple-stratum data only","VD","DC_vs_FC",6,625,2.295,0.313,4.277,0.031,64.471,1.154,-1.104,5.694
+"Randomised trials only","VD","DC_vs_FC",2,92,-0.185,-23.105,22.735,0.935,86.947,5.686,-38.176,37.807
+"Non-randomised only","VD","DC_vs_FC",14,2338,3.359,0.26,6.458,0.036,95.112,21.813,-7.196,13.914
+"Excluding approximated n (Gurien, Hawkins)","VD","DC_vs_FC",14,1393,2.643,-0.105,5.39,0.058,90.823,15.941,-6.41,11.695
+"Excluding converted medians (reported mean/SD only)","VD","DC_vs_FC",8,1189,2.218,-2.771,7.207,0.328,93.621,23.897,-10.372,14.808
+"Primary (all-comer, Box-Cox)","VD","SL_vs_FC",5,255,-1.474,-2.405,-0.543,0.012,44.016,0,-2.405,-0.543
+"Wan conversion (Hawkins excluded)","VD","SL_vs_FC",5,255,-1.487,-2.594,-0.379,0.02,44.213,0,-2.594,-0.379
+"Simple-stratum data only","VD","SL_vs_FC",5,255,-1.474,-2.405,-0.543,0.012,44.016,0,-2.405,-0.543
+"Non-randomised only","VD","SL_vs_FC",4,216,-1.511,-2.831,-0.19,0.036,57.271,0,-2.831,-0.19
+"Excluding approximated n (Gurien, Hawkins)","VD","SL_vs_FC",5,255,-1.474,-2.405,-0.543,0.012,44.016,0,-2.405,-0.543
+"Excluding converted medians (reported mean/SD only)","VD","SL_vs_FC",3,161,-3.345,-10.091,3.402,0.167,68.696,4.776,-14.918,8.228
+"Including flap/plastic closure (Emami, Orion)","VD","SL_vs_FC",6,711,-1.383,-2.079,-0.687,0.004,34.977,0,-2.079,-0.687
+"Primary (all-comer, Box-Cox)","FF","DC_vs_FC",10,894,2.616,-4.632,9.864,0.435,77.359,61.713,-16.576,21.809
+"Wan conversion (Hawkins excluded)","FF","DC_vs_FC",9,751,-0.013,-7.746,7.719,0.997,77.241,56.773,-19.032,19.005
+"Simple-stratum data only","FF","DC_vs_FC",5,496,4.084,-4.929,13.098,0.277,73.232,37.655,-15.19,23.359
+"Non-randomised only","FF","DC_vs_FC",9,856,3.698,-4.228,11.623,0.313,74.889,62.553,-16.188,23.583
+"Excluding approximated n (Gurien, Hawkins)","FF","DC_vs_FC",9,751,1.103,-5.652,7.858,0.716,77.371,45.132,-15.797,18.004
+"Excluding converted medians (reported mean/SD only)","FF","DC_vs_FC",5,281,1.382,-10.138,12.902,0.756,61.7,38.273,-19.3,22.064
+"Primary (all-comer, Box-Cox)","FF","SL_vs_FC",6,387,0.385,-6.769,7.54,0.895,59.542,17.916,-12.637,13.407
+"Wan conversion (Hawkins excluded)","FF","SL_vs_FC",6,387,0.362,-5.656,6.379,0.883,56.212,9.816,-9.692,10.415
+"Simple-stratum data only","FF","SL_vs_FC",4,234,-0.05,-11.798,11.698,0.99,66.227,20.759,-18.712,18.612
+"Non-randomised only","FF","SL_vs_FC",5,348,-1.049,-6.48,4.381,0.62,41.853,4.931,-9.265,7.167
+"Excluding approximated n (Gurien, Hawkins)","FF","SL_vs_FC",6,387,0.385,-6.769,7.54,0.895,59.542,17.916,-12.637,13.407
+"Excluding converted medians (reported mean/SD only)","FF","SL_vs_FC",3,172,1.391,-26.993,29.774,0.853,71.894,89.102,-48.159,50.94
+"Including flap/plastic closure (Emami, Orion)","FF","SL_vs_FC",6,387,0.385,-6.769,7.54,0.895,59.542,17.916,-12.637,13.407
+"Primary (all-comer, Box-Cox)","PN","DC_vs_FC",11,1471,6.959,2.651,11.267,0.005,57.793,9.693,-1.207,15.125
+"Wan conversion (Hawkins excluded)","PN","DC_vs_FC",10,1116,7.337,4.335,10.339,0,32.88,7.021,0.634,14.041
+"Simple-stratum data only","PN","DC_vs_FC",4,552,6.261,0.214,12.307,0.046,74.067,10.624,-5.746,18.267
+"Non-randomised only","PN","DC_vs_FC",10,1417,7.032,2.255,11.809,0.009,62.013,10.671,-1.767,15.831
+"Excluding approximated n (Gurien, Hawkins)","PN","DC_vs_FC",10,1116,7.506,4.132,10.879,0.001,49.265,8.971,-0.063,15.074
+"Excluding converted medians (reported mean/SD only)","PN","DC_vs_FC",6,433,8.892,5.104,12.681,0.002,0,0,5.104,12.681
+"Primary (all-comer, Box-Cox)","PN","SL_vs_FC",4,281,0.9,-5.215,7.016,0.671,55.186,6.887,-9.451,11.252
+"Wan conversion (Hawkins excluded)","PN","SL_vs_FC",4,281,0.534,-6.501,7.569,0.825,62.38,11.011,-12.155,13.223
+"Simple-stratum data only","PN","SL_vs_FC",3,173,0.892,-8.517,10.302,0.723,69.92,9.62,-15.436,17.221
+"Non-randomised only","PN","SL_vs_FC",4,281,0.9,-5.215,7.016,0.671,55.186,6.887,-9.451,11.252
+"Excluding approximated n (Gurien, Hawkins)","PN","SL_vs_FC",4,281,0.9,-5.215,7.016,0.671,55.186,6.887,-9.451,11.252
+"Including flap/plastic closure (Emami, Orion)","PN","SL_vs_FC",5,737,0.665,-3.699,5.028,0.694,43.135,5.211,-7.03,8.36
+"Primary RR (inverse variance, HK)","SEPSIS","DC_vs_FC",10,2122,1.004,0.794,1.27,0.969,7.492,0,0.794,1.27
+"Simple-stratum data only","SEPSIS","DC_vs_FC",3,504,1.617,0.241,10.875,0.391,51.671,0.32,0.073,35.617
+"Primary RR (inverse variance, HK)","SEPSIS","SL_vs_FC",5,257,1.248,0.431,3.613,0.594,3.999,0.122,0.296,5.258
+"Simple-stratum data only","SEPSIS","SL_vs_FC",4,212,1.409,0.357,5.561,0.485,13.389,0.107,0.251,7.892
+"Including flap/plastic closure","SEPSIS","SL_vs_FC",6,337,1.238,0.712,2.15,0.367,0,0,0.712,2.15
+"Primary RR (inverse variance, HK)","DEATH","DC_vs_FC",9,1662,1.111,0.703,1.758,0.61,0,0,0.703,1.758
+"Simple-stratum data only","DEATH","DC_vs_FC",3,359,1.542,0.629,3.779,0.173,0,0,0.629,3.779
+"Primary RR (inverse variance, HK)","DEATH","SL_vs_FC",1,84,0.549,0.062,4.864,0.59,NA,NA,NA,NA
+"Including flap/plastic closure","DEATH","SL_vs_FC",3,729,0.652,0.401,1.059,0.063,0,0,0.401,1.059
+"Primary RR (inverse variance, HK)","HERNIA","DC_vs_FC",3,637,0.519,0.235,1.15,0.071,0,0,0.235,1.15
+"Primary RR (inverse variance, HK)","HERNIA","SL_vs_FC",2,454,3.114,0.344,28.184,0.096,0,0,0.344,28.184
+"Including flap/plastic closure","HERNIA","SL_vs_FC",3,534,2.275,0.292,17.742,0.227,83.322,0.401,0.075,68.915
+"Primary RR (inverse variance, HK)","NEC","DC_vs_FC",7,1227,0.897,0.573,1.406,0.576,0,0,0.573,1.406
+"Simple-stratum data only","NEC","DC_vs_FC",3,780,0.929,0.291,2.969,0.811,0,0,0.291,2.969

@@ -1,0 +1,107 @@
+study,year,outcome,stratum,t1,n1,m1,s1,t2,n2,m2,s2,stat_type,source,note
+Minkes,2000,LOS,M,FC,30,32,,DC,13,25,,median(range 11-244 | 17-70),Table 2,EC=emergency closure incl 8 staged repair; SLS = spring-loaded silo; mixed population
+Minkes,2000,VD,M,FC,30,6,,DC,13,4,,median(range 1-44 | 0-5),Table 2,
+Minkes,2000,FF,M,FC,30,27,,DC,13,21,,median(range 7-134 | 13-56),Table 2,
+Chiu,2006,LOS,M,FC,28,35,18,DC,20,29,12,mean±SD,Results text,PC vs preformed silo; mixed (1 ileal atresia in SC); glyph read as ±
+Chiu,2006,VD,M,FC,28,4,3,DC,20,3,4,mean±SD,Results text,
+Chiu,2006,FF,M,FC,28,30,17,DC,20,25,14,mean±SD,Results text,
+Chiu,2006,DEATH,M,FC,28,0,,DC,20,0,,events,Results text,
+Chiu,2006,HERNIA,M,FC,28,5,,DC,20,1,,events,Results text,
+Kidd,2003,LOS,M,FC,58,29.7,18,DC,60,37.7,12,mean±SD,Table 1,PC vs staged (preformed silo era); era confounded (pre/post 1997); all gastroschisis
+Kidd,2003,VD,M,FC,58,2.5,3.6,DC,60,8.6,4.8,mean±SD,Table 1,
+Kidd,2003,FF,M,FC,58,31,23,DC,60,32,17,mean±SD,Table 1,
+Kidd,2003,DEATH,M,FC,58,2,,DC,60,3,,events,Table 1,percent printed 3.3% inconsistent with 3/60 (5%)
+Kidd,2003,SEPSIS,M,FC,58,18,,DC,60,12,,events,Table 1,positive cultures used as infection proxy
+Kidd,2003,NEC,M,FC,58,8,,DC,60,5,,events,Table 1,
+Maksoud-Filho,2006,LOS,M,FC,32,26.0,21.2,DC,8,41.4,8.48,mean±SD,Table 2 (gastroschisis only),GI primary vs GII silo then primary closure; GIII silo+mesh (n=3; 48.33±21.35) excluded from DC node
+Maksoud-Filho,2006,SEPSIS,M,FC,32,2,,DC,8,1,,events,Table 2,
+Maksoud-Filho,2006,NEC,M,FC,32,2,,DC,8,0,,events,Table 2,
+Allotey,2007,LOS,S,TC,31,27,,DC,13,28,,median(range 16-48 | 16-50),Table 2,TC arm = primary closure + surgical silo mix (atresia/SBS excluded; n=31); PFS = preformed silo delayed closure; comparator contaminated
+Allotey,2007,FF,S,TC,31,22,,DC,13,27,,median(range 12-36 | 17-45),Table 2,age at full feeds
+Allotey,2007,PN,S,TC,31,18,,DC,13,21,,median(range 8-33 | 13-40),Table 2,
+Banyard,2010,LOS,M,FC,188,40.51,45,DC,47,46.53,27,mean±SD,Table 2,attempted primary repair (ITT incl 26% converted to silo) vs routine silo; mixed incl atresia 10%
+Banyard,2010,VD,M,FC,188,4.44,6,DC,47,6.20,6,mean±SD,Table 2,total ventilator days
+Banyard,2010,PN,M,FC,188,28.54,20,DC,47,36.51,22,mean±SD,Table 2,
+Banyard,2010,FF1,M,FC,188,21.21,22,DC,47,23.18,15,mean±SD,Table 2,days to FIRST feed (not full feeds) - not pooled
+Banyard,2010,DEATH,M,FC,188,1,,DC,47,1,,events,Table 2,0.5% and 2.1%
+Banyard,2010,NEC,M,FC,188,4,,DC,47,1,,events,Table 2,2.1% each (4/188 approx; 1/47) - percent-derived
+Villela,2009,LOS,P,FC,24,26.2,11.4,DC,10,38.0,16.0,mean±SD,Tabla II,simple gastroschisis (atresia perforation infarct excluded); primary vs elective closure after silo
+Villela,2009,VD,P,FC,24,5.6,8.1,DC,10,14.2,8.9,mean±SD,Tabla II,
+Villela,2009,FF,P,FC,24,22.0,10.1,DC,10,32.2,11.6,mean±SD,Tabla II,time to complete enteral requirement
+Villela,2009,PN,P,FC,24,20.5,10.2,DC,10,30.5,12.1,mean±SD,Tabla II,
+Villela,2009,SEPSIS,P,FC,24,13,,DC,10,5,,events,text,
+Villela,2009,DEATH,P,FC,24,4,,DC,10,3,,events,Tabla II,
+McNamara,2011,LOS,M,FC,5,30.00,16.51,DC,23,53.57,37.43,mean±SD,Table 4,3-arm study: fascial n=5; sutureless n=3 (27.67±11.59); staged n=23 (customized+preformed silo); includes 4 atresia; primary-closure group n=8 29.13±13.98
+McNamara,2011,LOS,M,SL,3,27.67,11.59,DC,23,53.57,37.43,mean±SD,Table 4,direct SL vs DC contrast (loop with FC)
+McNamara,2011,LOS,M,FC,5,30.00,16.51,SL,3,27.67,11.59,mean±SD,Table 4,
+McNamara,2011,PN,M,FC,5,24.00,14.46,DC,23,41.83,33.85,mean±SD,Table 4,
+McNamara,2011,PN,M,SL,3,17.67,0.58,DC,23,41.83,33.85,mean±SD,Table 4,SD 0.58 implausibly small (n=3)
+Owen2010,2010,DEATH,P,FC,170,3,,DC,120,2,,events,Table 5,UK national cohort simple gastroschisis; operative fascial closure vs preformed silo (intended technique)
+Owen2010,2010,NEC,P,FC,170,18,,DC,120,10,,events,Table 5,
+Owen2010,2010,VENTANY,P,FC,170,149,,DC,120,76,,events,Table 5,ventilated postoperatively (binary; no VD days reported)
+Owen2010,2010,TPN28,P,FC,165,56,,DC,113,59,,events,Table 5,TPN >=28 d among survivors
+Orion,2011,SEPSIS,M,SL,52,22,,FC,28,10,,events,Table III,plastic closure (sutureless) vs suture closure (includes delayed suture after silo); mixed; infection/sepsis/prolonged antibiotics
+Orion,2011,HERNIA,M,SL,52,32,,FC,28,14,,events,Table III,ventral hernia before discharge
+Orion,2011,DEATH,M,SL,52,1,,FC,28,1,,events,Table I,
+Alali,2011,DEATH,M,FC,52,1,,DC,34,2,,events,text,primary repair (fascial 42 + skin flap 10) vs staged repair; other outcomes dichotomized only (MV<=1wk etc.)
+Charlesworth,2014,LOS,M,TC,89,30,,DC,67,31,,median(range 2-160 | 16-118),Table 1,TC = primary closure + surgical silo mix; PFS = preformed silo; comparator contaminated; sensitivity only
+Charlesworth,2014,VD,M,TC,89,5,,DC,67,3.5,,median(range 1-22 | 0-20),Table 1,
+Charlesworth,2014,FF,M,TC,89,24,,DC,67,27,,median(range 10-158 | 10-86),Table 1,
+Charlesworth,2014,PN,M,TC,89,19,,DC,67,24,,median(range 6-138 | 7-92),Table 1,
+Charlesworth,2014,DEATH,M,TC,89,4,,DC,67,1,,events,Table 1,
+Charlesworth,2014,NEC,M,TC,89,7,,DC,67,8,,events,Table 1,
+Dariel,2015,SEPSIS,POSTSILO,FC,41,13,,SL,23,12,,events,Table 5,post-silo contrast: secondary surgical closure (SSC) vs secondary plastic closure (SPC); not FC vs SL at first operation
+Dariel,2015,HERNIA,POSTSILO,FC,41,6,,SL,23,5,,events,Table 5,umbilical hernia
+Dariel,2015,DEATH,POSTSILO,FC,41,1,,SL,23,0,,events,Table 5,
+Dariel,2015,NEC,POSTSILO,FC,41,6,,SL,23,1,,events,Table 5,
+Grabski,2019,LOS,M,FC,28,36,,SL,17,31,,median_iqr[27;39|27;57],Table 2,case-control; sutureless vs primary fascial; includes 3 complex per arm
+Grabski,2019,FF,M,FC,28,29,,SL,17,28,,median_iqr[23;34|25;48],Table 2,time to 100% enteral feeds
+Grabski,2019,SEPSIS,M,FC,28,3,,SL,17,1,,events,Table 2,infection
+Grabski,2019,DEATH,M,FC,28,3,,SL,17,1,,events,Table 2,1-year mortality
+Fraser2020,2020,LOS,P,FC,36,23,,SL,37,29,,median_iqr[18.75;33|23;41],Table 2,uncomplicated; PRIMARY sutured vs PRIMARY sutureless (no silo)
+Fraser2020,2020,VD,P,FC,36,2,,SL,37,0,,median_iqr[1;3|0;2],Table 2,
+Fraser2020,2020,FF,P,FC,36,20.5,,SL,37,23.5,,median_iqr[16;26.75|18;29.75],Table 2,time from closure to goal feeds
+Fraser2020,2020,PN,P,FC,36,18,,SL,37,24,,median_iqr[14;23|17;31],Table 2,
+Fraser2020,2020,SEPSIS,P,FC,36,3,,SL,37,1,,events,Table 2,surgical site/deep infection
+Fraser2020,2020,LOS,POSTSILO,FC,212,33.5,,SL,30,36,,median_iqr[25;49|28.25;45.75],Table 3,uncomplicated; silo then sutured vs silo then sutureless
+Fraser2020,2020,VD,POSTSILO,FC,212,4,,SL,30,0.5,,median_iqr[1;7|0;4.75],Table 3,
+Fraser2020,2020,FF,POSTSILO,FC,212,23.5,,SL,30,26,,median_iqr[17;34.5|21.25;36.75],Table 3,
+Fraser2020,2020,PN,POSTSILO,FC,212,25,,SL,30,27,,median_iqr[18;36|22.5;38],Table 3,
+Fraser2020,2020,SEPSIS,POSTSILO,FC,212,29,,SL,30,1,,events,Table 3,
+Fraser2022,2022,HERNIA,M,FC,305,50,,SL,70,35,,events,Table 2,Midwest consortium overlaps Fraser 2020; sutured includes post-silo; uncomplicated+complex; use for hernia only
+Barry,2023,LOS,M,FC,51,29,,SL,46,29,,median_iqr[23;48|21;44],Table 2,single centre; sutured vs sutureless; simple n=82 complicated n=15 pooled
+Barry,2023,FF,M,FC,51,24,,SL,46,24,,median_iqr[19;37|18;32],Table 2,time to full enteral feeds
+Barry,2023,PN,M,FC,51,23,,SL,46,23,,median_iqr[20;37|16;36],Table 2,
+Sosnowska,2023,LOS,M,FC,19,32,,DC,40,44,,mean(range 15-86 | 19-79),text,Poznan 20-year; primary vs staged silo; mixed; Research Square preprint version
+Sosnowska,2023,VD,M,FC,19,6,,DC,40,13,,mean(range 2-12 | 6-32),text,analgosedation/ventilation time per authors (proxy)
+Sosnowska,2023,SEPSIS,M,FC,19,4,,DC,40,15,,events,text,21% and 37% -> counts derived
+Avila-Hernandez,2025,LOS,P,FC,11,25,,SL,10,20.5,,median_iqr[21;26|18.75;23.25],Table 2,simple gastroschisis 3-arm (Simil-Exit = sutureless-type; primary; deferred closure); journal Cir Pediatr (file label vila)
+Avila-Hernandez,2025,LOS,P,FC,11,25,,DC,17,31,,median_iqr[21;26|27;33],Table 2,
+Avila-Hernandez,2025,LOS,P,SL,10,20.5,,DC,17,31,,median_iqr[18.75;23.25|27;33],Table 2,direct SL vs DC
+Avila-Hernandez,2025,VD,P,FC,11,2,,SL,10,0,,median_iqr[0;4|0;2],Table 2,
+Avila-Hernandez,2025,VD,P,FC,11,2,,DC,17,4,,median_iqr[0;4|2.5;6.5],Table 2,
+Avila-Hernandez,2025,VD,P,SL,10,0,,DC,17,4,,median_iqr[0;2|2.5;6.5],Table 2,
+Avila-Hernandez,2025,PN,P,FC,11,15,,SL,10,15,,median_iqr[11;17|12.75;15.25],Table 2,
+Avila-Hernandez,2025,PN,P,FC,11,15,,DC,17,17,,median_iqr[11;17|15;19],Table 2,
+Avila-Hernandez,2025,PN,P,SL,10,15,,DC,17,17,,median_iqr[12.75;15.25|15;19],Table 2,
+Avila-Hernandez,2025,SEPSIS,P,FC,11,2,,SL,10,3,,events,Table 3,
+Avila-Hernandez,2025,SEPSIS,P,FC,11,2,,DC,17,13,,events,Table 3,13/17 printed 76.8% (13/17=76.5%)
+Avila-Hernandez,2025,SEPSIS,P,SL,10,3,,DC,17,13,,events,Table 3,
+Chantakhow,2025,LOS,M,FC,111,26,,DC,54,41.5,,median_iqr[20;46|30;74],Table (total cohort),Thailand; primary vs staged (bedside wound-retractor silo era pre/post); mixed
+Chantakhow,2025,VD,M,FC,111,3,,DC,54,10,,median_iqr[2;4|2;16],Table,
+Chantakhow,2025,PN,M,FC,111,18,,DC,54,29,,median_iqr[14;29|19;50],Table,
+Chantakhow,2025,DEATH,M,FC,111,7,,DC,54,1,,events,Table,
+Anand,2025,SEPSIS,M,FC,74,30,,SL,52,38,,events,abstract percentages,DERIVED from 73% vs 41% and 41% sutureless of 126; verify table; sensitivity only
+Anand,2025,HERNIA,M,FC,74,16,,SL,52,22,,events,abstract percentages,DERIVED from 42% vs 22%; sensitivity only
+Murthy,2014,LOS,P,FC,141,28,,DC,301,37,,median_iqr[23;40|27;61],Table 1,Children's Hospital Neonatal Database; simple GS >=34wk no atresia survivors; primary vs staged
+Murthy,2014,VD,P,FC,141,3,,DC,301,6,,median_iqr[0;4|2;10],Table 3,
+Murthy,2014,PN,P,FC,141,20,,DC,301,27,,median_iqr[16;31|22;43],Table 3,
+Murthy,2014,FF,P,FC,110,23,,DC,231,29,,median_iqr[19;32|23;45],Table 3,age at full feeds among infants who achieved full feeds
+Murthy,2014,NEC,P,FC,141,3,,DC,301,12,,events,Table 1,
+Murthy,2014,SEPSIS,P,FC,141,3,,DC,301,10,,events,Table 1,CLABSI (central-line bloodstream infection)
+Gurien,2017,LOS,M,FC,309,36.4,24.1,DC,224,41.5,20.6,mean±SD,Table 2,NSQIP-Pediatric; N with LOS=533 of 627 allocated proportionally (APPROX n); mixed
+Gurien,2017,VD,M,FC,359,5.4,5.6,DC,260,3.5,4.9,mean±SD,Table 2,N=619 allocated proportionally (APPROX n)
+Stanger,2014,SEPSIS,M,FC,372,47,,DC,379,50,,events,Table 2,Canadian national database; primary repair <6h vs planned delayed closure; line sepsis
+Stanger,2014,SSI,M,FC,372,21,,DC,379,54,,events,Table 2,surgical site infection
+Stanger,2014,LOS,M,FC,372,56.6,,DC,379,53.8,,mean_noSD(p=0.60),Table 2,means without SD; SE back-calculated from p; sensitivity only
+Stanger,2014,VD,M,FC,372,6.79,,DC,379,7.04,,mean_noSD(p=0.67),Table 2,sensitivity only

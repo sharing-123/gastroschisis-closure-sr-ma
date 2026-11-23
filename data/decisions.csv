@@ -1,0 +1,32 @@
+study,year,pmid,decision,reason
+Minkes,2000,10873023,pooled (median-range),FC vs DC mixed
+Kidd,2003,12796571,pooled,FC vs DC mixed (era confounded)
+Chiu,2006,16602846,pooled,FC vs DC
+Maksoud-Filho,2006,16736218,pooled (gastroschisis subgroup),FC vs DC; omphalocele excluded; mesh arm excluded
+Allotey,2007,17694400,sensitivity only,comparator TC mixes primary and surgical silo
+Weinsheimer,2008,18485957,narrative,adjusted ORs only (Canadian registry; no arm-level continuous data)
+Villela,2009,20405659,pooled,FC vs DC simple
+Banyard,2010,20223323,pooled,attempted primary vs routine silo (ITT-like)
+Owen,2010,20850625,pooled binary,simple FC vs PFS binary only
+McNamara,2011,20850769,pooled (3-arm),FC SL DC arms
+Orion,2011,21719056,pooled binary,SL (plastic) vs suture; continuous adjusted only
+Alali,2011,21104591,narrative (death only),outcomes reported as dichotomised percentages without means
+Charlesworth,2014,24163195,sensitivity only,comparator PC+surgical silo mix
+Manson,2012,22382099,excluded from pooling,compares African vs Western centres not closure strategy arms
+Dariel,2015,25526605,separate post-silo contrast,both arms staged: sutured vs plastic secondary closure; binary only (FF/PN medians without range)
+Dore,2016,28139102,narrative,medians only without range or IQR (PC 17 vs SS 10: VD 4 vs 13; PN 12 vs 20; LOS 36 vs 43 median)
+Grabski,2019,30692617,pooled,SL vs FC mixed (3 complex per arm)
+Fraser,2020,32151403,pooled (primary contrast) + post-silo contrast,uncomplicated; median IQR
+Fraser,2022,35450699,pooled hernia only,overlaps Fraser 2020 patients (Midwest consortium); hernia not reported by closure within uncomplicated stratum
+Williamson,2022,35549512,narrative,National Readmissions Database adjusted analysis; no arm-level outcome data
+Barry,2023,36720245,pooled,single centre sutured vs sutureless medians IQR
+Sosnowska,2023,36808050,pooled,primary vs staged means with range
+Avila-Hernandez,2025,39812599,pooled (3-arm),simple gastroschisis Simil-Exit/primary/deferred
+Chantakhow,2025,39775884,pooled,primary vs staged medians IQR
+Anand,2025,41186616,sensitivity only (binary derived),table values not extractable from text; counts derived from percentages
+Murthy,2014,25092080,pooled,arm-level medians IQR simple stratum (earlier labelled adjusted-only registry)
+Gurien,2017,28408077,pooled with approximate n,NSQIP unadjusted univariate table; arm n for outcomes approximated from totals
+Stanger,2014,24851755,pooled binary; continuous sensitivity,means without SD
+Gonzalez,2018,28483165,narrative,PHIS; early vs delayed by timing; adjusted regression only
+Pastor,2008,18926212,pooled (verified),RCT; values match Table 4
+Owen,2006,17101353,pooled (median-range),matched case-control; values from Table 2

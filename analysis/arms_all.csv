@@ -1,0 +1,176 @@
+﻿study,year,outcome,stratum,contrast,e_node,c_node,design,population,combine,stat_type,source,note,c_n,c_mean,c_sd,c_med,c_q1,c_q3,c_mn,c_mx,c_ev,e_n,e_mean,e_sd,e_med,e_q1,e_q3,e_mn,e_mx,e_ev
+Minkes,2000,LOS,M,DC_vs_FC,DC,FC,NRS,unrestricted,,median(range 11-244 | 17-70),Table 2,EC=emergency closure incl 8 staged repair; SLS = spring-loaded silo; mixed population,30.0,,,32.0,,,11.0,244.0,,13.0,,,25.0,,,17.0,70.0,
+Minkes,2000,VD,M,DC_vs_FC,DC,FC,NRS,unrestricted,,median(range 1-44 | 0-5),Table 2,,30.0,,,6.0,,,1.0,44.0,,13.0,,,4.0,,,0.0,5.0,
+Minkes,2000,FF,M,DC_vs_FC,DC,FC,NRS,unrestricted,,median(range 7-134 | 13-56),Table 2,,30.0,,,27.0,,,7.0,134.0,,13.0,,,21.0,,,13.0,56.0,
+Chiu,2006,LOS,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Results text,PC vs preformed silo; mixed (1 ileal atresia in SC); glyph read as ±,28.0,35.0,18.0,,,,,,,20.0,29.0,12.0,,,,,,
+Chiu,2006,VD,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Results text,,28.0,4.0,3.0,,,,,,,20.0,3.0,4.0,,,,,,
+Chiu,2006,FF,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Results text,,28.0,30.0,17.0,,,,,,,20.0,25.0,14.0,,,,,,
+Chiu,2006,DEATH,M,DC_vs_FC,DC,FC,NRS,unrestricted,,events,Results text,,28.0,,,,,,,,0.0,20.0,,,,,,,,0.0
+Chiu,2006,HERNIA,M,DC_vs_FC,DC,FC,NRS,unrestricted,,events,Results text,,28.0,,,,,,,,5.0,20.0,,,,,,,,1.0
+Kidd,2003,LOS,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 1,PC vs staged (preformed silo era); era confounded (pre/post 1997); all gastroschisis,58.0,29.7,18.0,,,,,,,60.0,37.7,12.0,,,,,,
+Kidd,2003,VD,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 1,,58.0,2.5,3.6,,,,,,,60.0,8.6,4.8,,,,,,
+Kidd,2003,FF,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 1,,58.0,31.0,23.0,,,,,,,60.0,32.0,17.0,,,,,,
+Kidd,2003,DEATH,M,DC_vs_FC,DC,FC,NRS,unrestricted,,events,Table 1,percent printed 3.3% inconsistent with 3/60 (5%),58.0,,,,,,,,2.0,60.0,,,,,,,,3.0
+Kidd,2003,SEPSIS,M,DC_vs_FC,DC,FC,NRS,unrestricted,,events,Table 1,positive cultures used as infection proxy,58.0,,,,,,,,18.0,60.0,,,,,,,,12.0
+Kidd,2003,NEC,M,DC_vs_FC,DC,FC,NRS,unrestricted,,events,Table 1,,58.0,,,,,,,,8.0,60.0,,,,,,,,5.0
+Maksoud-Filho,2006,LOS,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 2 (gastroschisis only),GI primary vs GII silo then primary closure; GIII silo+mesh (n=3; 48.33±21.35) excluded from DC node,32.0,26.0,21.2,,,,,,,8.0,41.4,8.48,,,,,,
+Maksoud-Filho,2006,SEPSIS,M,DC_vs_FC,DC,FC,NRS,unrestricted,,events,Table 2,,32.0,,,,,,,,2.0,8.0,,,,,,,,1.0
+Maksoud-Filho,2006,NEC,M,DC_vs_FC,DC,FC,NRS,unrestricted,,events,Table 2,,32.0,,,,,,,,2.0,8.0,,,,,,,,0.0
+Allotey,2007,LOS,S,DC_vs_TC,DC,TC,NRS,unrestricted,,median(range 16-48 | 16-50),Table 2,TC arm = primary closure + surgical silo mix (atresia/SBS excluded; n=31); PFS = preformed silo delayed closure; comparator contaminated,31.0,,,27.0,,,16.0,48.0,,13.0,,,28.0,,,16.0,50.0,
+Allotey,2007,FF,S,DC_vs_TC,DC,TC,NRS,unrestricted,,median(range 12-36 | 17-45),Table 2,age at full feeds,31.0,,,22.0,,,12.0,36.0,,13.0,,,27.0,,,17.0,45.0,
+Allotey,2007,PN,S,DC_vs_TC,DC,TC,NRS,unrestricted,,median(range 8-33 | 13-40),Table 2,,31.0,,,18.0,,,8.0,33.0,,13.0,,,21.0,,,13.0,40.0,
+Banyard,2010,LOS,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 2,attempted primary repair (ITT incl 26% converted to silo) vs routine silo; mixed incl atresia 10%,188.0,40.51,45.0,,,,,,,47.0,46.53,27.0,,,,,,
+Banyard,2010,VD,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 2,total ventilator days,188.0,4.44,6.0,,,,,,,47.0,6.2,6.0,,,,,,
+Banyard,2010,PN,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 2,,188.0,28.54,20.0,,,,,,,47.0,36.51,22.0,,,,,,
+Banyard,2010,FF1,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 2,days to FIRST feed (not full feeds) - not pooled,188.0,21.21,22.0,,,,,,,47.0,23.18,15.0,,,,,,
+Banyard,2010,DEATH,M,DC_vs_FC,DC,FC,NRS,unrestricted,,events,Table 2,0.5% and 2.1%,188.0,,,,,,,,1.0,47.0,,,,,,,,1.0
+Banyard,2010,NEC,M,DC_vs_FC,DC,FC,NRS,unrestricted,,events,Table 2,2.1% each (4/188 approx; 1/47) - percent-derived,188.0,,,,,,,,4.0,47.0,,,,,,,,1.0
+Villela,2009,LOS,P,DC_vs_FC,DC,FC,NRS,simple_only,,mean±SD,Tabla II,simple gastroschisis (atresia perforation infarct excluded); primary vs elective closure after silo,24.0,26.2,11.4,,,,,,,10.0,38.0,16.0,,,,,,
+Villela,2009,VD,P,DC_vs_FC,DC,FC,NRS,simple_only,,mean±SD,Tabla II,,24.0,5.6,8.1,,,,,,,10.0,14.2,8.9,,,,,,
+Villela,2009,FF,P,DC_vs_FC,DC,FC,NRS,simple_only,,mean±SD,Tabla II,time to complete enteral requirement,24.0,22.0,10.1,,,,,,,10.0,32.2,11.6,,,,,,
+Villela,2009,PN,P,DC_vs_FC,DC,FC,NRS,simple_only,,mean±SD,Tabla II,,24.0,20.5,10.2,,,,,,,10.0,30.5,12.1,,,,,,
+Villela,2009,SEPSIS,P,DC_vs_FC,DC,FC,NRS,simple_only,,events,text,,24.0,,,,,,,,13.0,10.0,,,,,,,,5.0
+Villela,2009,DEATH,P,DC_vs_FC,DC,FC,NRS,simple_only,,events,Tabla II,,24.0,,,,,,,,4.0,10.0,,,,,,,,3.0
+McNamara,2011,LOS,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 4,3-arm study: fascial n=5; sutureless n=3 (27.67±11.59); staged n=23 (customized+preformed silo); includes 4 atresia; primary-closure group n=8 29.13±13.98,5.0,30.0,16.51,,,,,,,23.0,53.57,37.43,,,,,,
+McNamara,2011,LOS,M,SL_vs_DC,SL,DC,NRS,unrestricted,,mean±SD,Table 4,direct SL vs DC contrast (loop with FC),23.0,53.57,37.43,,,,,,,3.0,27.67,11.59,,,,,,
+McNamara,2011,LOS,M,SL_vs_FC,SL,FC,NRS,unrestricted,,mean±SD,Table 4,,5.0,30.0,16.51,,,,,,,3.0,27.67,11.59,,,,,,
+McNamara,2011,PN,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 4,,5.0,24.0,14.46,,,,,,,23.0,41.83,33.85,,,,,,
+McNamara,2011,PN,M,SL_vs_DC,SL,DC,NRS,unrestricted,,mean±SD,Table 4,SD 0.58 implausibly small (n=3),23.0,41.83,33.85,,,,,,,3.0,17.67,0.58,,,,,,
+Owen2010,2010,DEATH,P,DC_vs_FC,DC,FC,NRS,simple_only,,events,Table 5,UK national cohort simple gastroschisis; operative fascial closure vs preformed silo (intended technique),170.0,,,,,,,,3.0,120.0,,,,,,,,2.0
+Owen2010,2010,NEC,P,DC_vs_FC,DC,FC,NRS,simple_only,,events,Table 5,,170.0,,,,,,,,18.0,120.0,,,,,,,,10.0
+Owen2010,2010,VENTANY,P,DC_vs_FC,DC,FC,NRS,simple_only,,events,Table 5,ventilated postoperatively (binary; no VD days reported),170.0,,,,,,,,149.0,120.0,,,,,,,,76.0
+Owen2010,2010,TPN28,P,DC_vs_FC,DC,FC,NRS,simple_only,,events,Table 5,TPN >=28 d among survivors,165.0,,,,,,,,56.0,113.0,,,,,,,,59.0
+Orion,2011,SEPSIS,M,SL_vs_FC,SL,FC,NRS,unrestricted,,events,Table III,plastic closure (sutureless) vs suture closure (includes delayed suture after silo); mixed; infection/sepsis/prolonged antibiotics,28.0,,,,,,,,10.0,52.0,,,,,,,,22.0
+Orion,2011,HERNIA,M,SL_vs_FC,SL,FC,NRS,unrestricted,,events,Table III,ventral hernia before discharge,28.0,,,,,,,,14.0,52.0,,,,,,,,32.0
+Orion,2011,DEATH,M,SL_vs_FC,SL,FC,NRS,unrestricted,,events,Table I,,28.0,,,,,,,,1.0,52.0,,,,,,,,1.0
+Alali,2011,DEATH,M,DC_vs_FC,DC,FC,NRS,unrestricted,,events,text,primary repair (fascial 42 + skin flap 10) vs staged repair; other outcomes dichotomized only (MV<=1wk etc.),52.0,,,,,,,,1.0,34.0,,,,,,,,2.0
+Charlesworth,2014,LOS,M,DC_vs_TC,DC,TC,NRS,unrestricted,,median(range 2-160 | 16-118),Table 1,TC = primary closure + surgical silo mix; PFS = preformed silo; comparator contaminated; sensitivity only,89.0,,,30.0,,,2.0,160.0,,67.0,,,31.0,,,16.0,118.0,
+Charlesworth,2014,VD,M,DC_vs_TC,DC,TC,NRS,unrestricted,,median(range 1-22 | 0-20),Table 1,,89.0,,,5.0,,,1.0,22.0,,67.0,,,3.5,,,0.0,20.0,
+Charlesworth,2014,FF,M,DC_vs_TC,DC,TC,NRS,unrestricted,,median(range 10-158 | 10-86),Table 1,,89.0,,,24.0,,,10.0,158.0,,67.0,,,27.0,,,10.0,86.0,
+Charlesworth,2014,PN,M,DC_vs_TC,DC,TC,NRS,unrestricted,,median(range 6-138 | 7-92),Table 1,,89.0,,,19.0,,,6.0,138.0,,67.0,,,24.0,,,7.0,92.0,
+Charlesworth,2014,DEATH,M,DC_vs_TC,DC,TC,NRS,unrestricted,,events,Table 1,,89.0,,,,,,,,4.0,67.0,,,,,,,,1.0
+Charlesworth,2014,NEC,M,DC_vs_TC,DC,TC,NRS,unrestricted,,events,Table 1,,89.0,,,,,,,,7.0,67.0,,,,,,,,8.0
+Dariel,2015,SEPSIS,POSTSILO,POSTSILO,SL,FC,NRS,unrestricted,,events,Table 5,post-silo contrast: secondary surgical closure (SSC) vs secondary plastic closure (SPC); not FC vs SL at first operation,41.0,,,,,,,,13.0,23.0,,,,,,,,12.0
+Dariel,2015,HERNIA,POSTSILO,POSTSILO,SL,FC,NRS,unrestricted,,events,Table 5,umbilical hernia,41.0,,,,,,,,6.0,23.0,,,,,,,,5.0
+Dariel,2015,DEATH,POSTSILO,POSTSILO,SL,FC,NRS,unrestricted,,events,Table 5,,41.0,,,,,,,,1.0,23.0,,,,,,,,0.0
+Dariel,2015,NEC,POSTSILO,POSTSILO,SL,FC,NRS,unrestricted,,events,Table 5,,41.0,,,,,,,,6.0,23.0,,,,,,,,1.0
+Grabski,2019,LOS,M,SL_vs_FC,SL,FC,NRS,unrestricted,,median_iqr[27;39|27;57],Table 2,case-control; sutureless vs primary fascial; includes 3 complex per arm,28.0,,,36.0,27.0,39.0,,,,17.0,,,31.0,27.0,57.0,,,
+Grabski,2019,FF,M,SL_vs_FC,SL,FC,NRS,unrestricted,,median_iqr[23;34|25;48],Table 2,time to 100% enteral feeds,28.0,,,29.0,23.0,34.0,,,,17.0,,,28.0,25.0,48.0,,,
+Grabski,2019,SEPSIS,M,SL_vs_FC,SL,FC,NRS,unrestricted,,events,Table 2,infection,28.0,,,,,,,,3.0,17.0,,,,,,,,1.0
+Grabski,2019,DEATH,M,SL_vs_FC,SL,FC,NRS,unrestricted,,events,Table 2,1-year mortality,28.0,,,,,,,,3.0,17.0,,,,,,,,1.0
+Fraser2020,2020,LOS,P,SL_vs_FC,SL,FC,NRS,simple_only,,median_iqr[18.75;33|23;41],Table 2,uncomplicated; PRIMARY sutured vs PRIMARY sutureless (no silo),36.0,,,23.0,18.75,33.0,,,,37.0,,,29.0,23.0,41.0,,,
+Fraser2020,2020,VD,P,SL_vs_FC,SL,FC,NRS,simple_only,,median_iqr[1;3|0;2],Table 2,,36.0,,,2.0,1.0,3.0,,,,37.0,,,0.0,0.0,2.0,,,
+Fraser2020,2020,FF,P,SL_vs_FC,SL,FC,NRS,simple_only,,median_iqr[16;26.75|18;29.75],Table 2,time from closure to goal feeds,36.0,,,20.5,16.0,26.75,,,,37.0,,,23.5,18.0,29.75,,,
+Fraser2020,2020,PN,P,SL_vs_FC,SL,FC,NRS,simple_only,,median_iqr[14;23|17;31],Table 2,,36.0,,,18.0,14.0,23.0,,,,37.0,,,24.0,17.0,31.0,,,
+Fraser2020,2020,SEPSIS,P,SL_vs_FC,SL,FC,NRS,simple_only,,events,Table 2,surgical site/deep infection,36.0,,,,,,,,3.0,37.0,,,,,,,,1.0
+Fraser2020,2020,LOS,POSTSILO,POSTSILO,SL,FC,NRS,simple_only,,median_iqr[25;49|28.25;45.75],Table 3,uncomplicated; silo then sutured vs silo then sutureless,212.0,,,33.5,25.0,49.0,,,,30.0,,,36.0,28.25,45.75,,,
+Fraser2020,2020,VD,POSTSILO,POSTSILO,SL,FC,NRS,simple_only,,median_iqr[1;7|0;4.75],Table 3,,212.0,,,4.0,1.0,7.0,,,,30.0,,,0.5,0.0,4.75,,,
+Fraser2020,2020,FF,POSTSILO,POSTSILO,SL,FC,NRS,simple_only,,median_iqr[17;34.5|21.25;36.75],Table 3,,212.0,,,23.5,17.0,34.5,,,,30.0,,,26.0,21.25,36.75,,,
+Fraser2020,2020,PN,POSTSILO,POSTSILO,SL,FC,NRS,simple_only,,median_iqr[18;36|22.5;38],Table 3,,212.0,,,25.0,18.0,36.0,,,,30.0,,,27.0,22.5,38.0,,,
+Fraser2020,2020,SEPSIS,POSTSILO,POSTSILO,SL,FC,NRS,simple_only,,events,Table 3,,212.0,,,,,,,,29.0,30.0,,,,,,,,1.0
+Fraser2022,2022,HERNIA,M,SL_vs_FC,SL,FC,NRS,unrestricted,,events,Table 2,Midwest consortium overlaps Fraser 2020; sutured includes post-silo; uncomplicated+complex; use for hernia only,305.0,,,,,,,,50.0,70.0,,,,,,,,35.0
+Barry,2023,LOS,M,SL_vs_FC,SL,FC,NRS,unrestricted,,median_iqr[23;48|21;44],Table 2,single centre; sutured vs sutureless; simple n=82 complicated n=15 pooled,51.0,,,29.0,23.0,48.0,,,,46.0,,,29.0,21.0,44.0,,,
+Barry,2023,FF,M,SL_vs_FC,SL,FC,NRS,unrestricted,,median_iqr[19;37|18;32],Table 2,time to full enteral feeds,51.0,,,24.0,19.0,37.0,,,,46.0,,,24.0,18.0,32.0,,,
+Barry,2023,PN,M,SL_vs_FC,SL,FC,NRS,unrestricted,,median_iqr[20;37|16;36],Table 2,,51.0,,,23.0,20.0,37.0,,,,46.0,,,23.0,16.0,36.0,,,
+Sosnowska,2023,LOS,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean(range 15-86 | 19-79),text,Poznan 20-year; primary vs staged silo; mixed; Research Square preprint version,19.0,32.0,,,,,15.0,86.0,,40.0,44.0,,,,,19.0,79.0,
+Sosnowska,2023,VD,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean(range 2-12 | 6-32),text,analgosedation/ventilation time per authors (proxy),19.0,6.0,,,,,2.0,12.0,,40.0,13.0,,,,,6.0,32.0,
+Sosnowska,2023,SEPSIS,M,DC_vs_FC,DC,FC,NRS,unrestricted,,events,text,21% and 37% -> counts derived,19.0,,,,,,,,4.0,40.0,,,,,,,,15.0
+Avila-Hernandez,2025,LOS,P,SL_vs_FC,SL,FC,NRS,simple_only,,median_iqr[21;26|18.75;23.25],Table 2,simple gastroschisis 3-arm (Simil-Exit = sutureless-type; primary; deferred closure); journal Cir Pediatr (file label vila),11.0,,,25.0,21.0,26.0,,,,10.0,,,20.5,18.75,23.25,,,
+Avila-Hernandez,2025,LOS,P,DC_vs_FC,DC,FC,NRS,simple_only,,median_iqr[21;26|27;33],Table 2,,11.0,,,25.0,21.0,26.0,,,,17.0,,,31.0,27.0,33.0,,,
+Avila-Hernandez,2025,LOS,P,SL_vs_DC,SL,DC,NRS,simple_only,,median_iqr[18.75;23.25|27;33],Table 2,direct SL vs DC,17.0,,,31.0,27.0,33.0,,,,10.0,,,20.5,18.75,23.25,,,
+Avila-Hernandez,2025,VD,P,SL_vs_FC,SL,FC,NRS,simple_only,,median_iqr[0;4|0;2],Table 2,,11.0,,,2.0,0.0,4.0,,,,10.0,,,0.0,0.0,2.0,,,
+Avila-Hernandez,2025,VD,P,DC_vs_FC,DC,FC,NRS,simple_only,,median_iqr[0;4|2.5;6.5],Table 2,,11.0,,,2.0,0.0,4.0,,,,17.0,,,4.0,2.5,6.5,,,
+Avila-Hernandez,2025,VD,P,SL_vs_DC,SL,DC,NRS,simple_only,,median_iqr[0;2|2.5;6.5],Table 2,,17.0,,,4.0,2.5,6.5,,,,10.0,,,0.0,0.0,2.0,,,
+Avila-Hernandez,2025,PN,P,SL_vs_FC,SL,FC,NRS,simple_only,,median_iqr[11;17|12.75;15.25],Table 2,,11.0,,,15.0,11.0,17.0,,,,10.0,,,15.0,12.75,15.25,,,
+Avila-Hernandez,2025,PN,P,DC_vs_FC,DC,FC,NRS,simple_only,,median_iqr[11;17|15;19],Table 2,,11.0,,,15.0,11.0,17.0,,,,17.0,,,17.0,15.0,19.0,,,
+Avila-Hernandez,2025,PN,P,SL_vs_DC,SL,DC,NRS,simple_only,,median_iqr[12.75;15.25|15;19],Table 2,,17.0,,,17.0,15.0,19.0,,,,10.0,,,15.0,12.75,15.25,,,
+Avila-Hernandez,2025,SEPSIS,P,SL_vs_FC,SL,FC,NRS,simple_only,,events,Table 3,,11.0,,,,,,,,2.0,10.0,,,,,,,,3.0
+Avila-Hernandez,2025,SEPSIS,P,DC_vs_FC,DC,FC,NRS,simple_only,,events,Table 3,13/17 printed 76.8% (13/17=76.5%),11.0,,,,,,,,2.0,17.0,,,,,,,,13.0
+Avila-Hernandez,2025,SEPSIS,P,SL_vs_DC,SL,DC,NRS,simple_only,,events,Table 3,,17.0,,,,,,,,13.0,10.0,,,,,,,,3.0
+Chantakhow,2025,LOS,M,DC_vs_FC,DC,FC,NRS,unrestricted,,median_iqr[20;46|30;74],Table (total cohort),Thailand; primary vs staged (bedside wound-retractor silo era pre/post); mixed,111.0,,,26.0,20.0,46.0,,,,54.0,,,41.5,30.0,74.0,,,
+Chantakhow,2025,VD,M,DC_vs_FC,DC,FC,NRS,unrestricted,,median_iqr[2;4|2;16],Table,,111.0,,,3.0,2.0,4.0,,,,54.0,,,10.0,2.0,16.0,,,
+Chantakhow,2025,PN,M,DC_vs_FC,DC,FC,NRS,unrestricted,,median_iqr[14;29|19;50],Table,,111.0,,,18.0,14.0,29.0,,,,54.0,,,29.0,19.0,50.0,,,
+Chantakhow,2025,DEATH,M,DC_vs_FC,DC,FC,NRS,unrestricted,,events,Table,,111.0,,,,,,,,7.0,54.0,,,,,,,,1.0
+Anand,2025,SEPSIS,M,SL_vs_FC,SL,FC,NRS,unrestricted,,events,abstract percentages,DERIVED from 73% vs 41% and 41% sutureless of 126; verify table; sensitivity only,74.0,,,,,,,,30.0,52.0,,,,,,,,38.0
+Anand,2025,HERNIA,M,SL_vs_FC,SL,FC,NRS,unrestricted,,events,abstract percentages,DERIVED from 42% vs 22%; sensitivity only,74.0,,,,,,,,16.0,52.0,,,,,,,,22.0
+Murthy,2014,LOS,P,DC_vs_FC,DC,FC,NRS,simple_only,,median_iqr[23;40|27;61],Table 1,Children's Hospital Neonatal Database; simple GS >=34wk no atresia survivors; primary vs staged,141.0,,,28.0,23.0,40.0,,,,301.0,,,37.0,27.0,61.0,,,
+Murthy,2014,VD,P,DC_vs_FC,DC,FC,NRS,simple_only,,median_iqr[0;4|2;10],Table 3,,141.0,,,3.0,0.0,4.0,,,,301.0,,,6.0,2.0,10.0,,,
+Murthy,2014,PN,P,DC_vs_FC,DC,FC,NRS,simple_only,,median_iqr[16;31|22;43],Table 3,,141.0,,,20.0,16.0,31.0,,,,301.0,,,27.0,22.0,43.0,,,
+Murthy,2014,FF,P,DC_vs_FC,DC,FC,NRS,simple_only,,median_iqr[19;32|23;45],Table 3,age at full feeds among infants who achieved full feeds,110.0,,,23.0,19.0,32.0,,,,231.0,,,29.0,23.0,45.0,,,
+Murthy,2014,NEC,P,DC_vs_FC,DC,FC,NRS,simple_only,,events,Table 1,,141.0,,,,,,,,3.0,301.0,,,,,,,,12.0
+Murthy,2014,SEPSIS,P,DC_vs_FC,DC,FC,NRS,simple_only,,events,Table 1,CLABSI (central-line bloodstream infection),141.0,,,,,,,,3.0,301.0,,,,,,,,10.0
+Gurien,2017,LOS,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 2,NSQIP-Pediatric; N with LOS=533 of 627 allocated proportionally (APPROX n); mixed,309.0,36.4,24.1,,,,,,,224.0,41.5,20.6,,,,,,
+Gurien,2017,VD,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 2,N=619 allocated proportionally (APPROX n),359.0,5.4,5.6,,,,,,,260.0,3.5,4.9,,,,,,
+Stanger,2014,SEPSIS,M,DC_vs_FC,DC,FC,NRS,unrestricted,,events,Table 2,Canadian national database; primary repair <6h vs planned delayed closure; line sepsis,372.0,,,,,,,,47.0,379.0,,,,,,,,50.0
+Stanger,2014,SSI,M,DC_vs_FC,DC,FC,NRS,unrestricted,,events,Table 2,surgical site infection,372.0,,,,,,,,21.0,379.0,,,,,,,,54.0
+Stanger,2014,LOS,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean_noSD(p=0.60),Table 2,means without SD; SE back-calculated from p; sensitivity only,372.0,56.6,,,,,,,,379.0,53.8,,,,,,,
+Stanger,2014,VD,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean_noSD(p=0.67),Table 2,sensitivity only,372.0,6.79,,,,,,,,379.0,7.04,,,,,,,
+Pastor,2008,VD,M,DC_vs_FC,DC,FC,RCT,unrestricted,,mean±SD,Table 4,RCT; ITT (7 of 27 primary converted to silo),27,5.29,5.2,,,,,,,27,3.17,2.9,,,,,,
+Pastor,2008,PN,M,DC_vs_FC,DC,FC,RCT,unrestricted,,mean±SD,Table 4,RCT; ITT (7 of 27 primary converted to silo),27,33.0,27,,,,,,,27,38.8,33,,,,,,
+Pastor,2008,LOS,M,DC_vs_FC,DC,FC,RCT,unrestricted,,mean±SD,Table 4,RCT; ITT (7 of 27 primary converted to silo),27,43.2,28,,,,,,,27,49.1,34,,,,,,
+Pastor,2008,SEPSIS,M,DC_vs_FC,DC,FC,RCT,unrestricted,,events,Table 4,,27,,,,,,,,6,27,,,,,,,,7
+Pastor,2008,NEC,M,DC_vs_FC,DC,FC,RCT,unrestricted,,events,Table 4,,27,,,,,,,,1,27,,,,,,,,3
+Pastor,2008,DEATH,M,DC_vs_FC,DC,FC,RCT,unrestricted,,events,Table 4,,27,,,,,,,,0,27,,,,,,,,0
+Lobo,2010,VD,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 2,mean±SEM converted to SD; atresia 3/10 in primary arm,10,3.6,2.214,,,,,,,27,16.1,18.187,,,,,,
+Lobo,2010,PN,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 2,mean±SEM converted to SD; atresia 3/10 in primary arm,10,40.6,40.793,,,,,,,27,65.1,84.697,,,,,,
+Lobo,2010,FF,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 2,mean±SEM converted to SD; atresia 3/10 in primary arm,10,24.0,27.828,,,,,,,27,52.6,85.737,,,,,,
+Lobo,2010,LOS,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 2,mean±SEM converted to SD; atresia 3/10 in primary arm,10,44.3,30.042,,,,,,,27,55.3,48.324,,,,,,
+Lobo,2010,DEATH,M,DC_vs_FC,DC,FC,NRS,unrestricted,,events,prior extraction (verify),,10,,,,,,,,0,27,,,,,,,,3
+Riboh,2009,VD,P,SL_vs_FC,SL,FC,NRS,simple_only,,mean±SD,Table 2,includes silo reduction in 9 vs 10,19,12.1,11.1,,,,,,,24,5.0,6.0,,,,,,
+Riboh,2009,FF,P,SL_vs_FC,SL,FC,NRS,simple_only,,mean±SD,Table 2,includes silo reduction in 9 vs 10,19,21.4,11.7,,,,,,,24,16.8,7.9,,,,,,
+Riboh,2009,LOS,P,SL_vs_FC,SL,FC,NRS,simple_only,,mean±SD,Table 2,includes silo reduction in 9 vs 10,19,49.7,41.2,,,,,,,24,34.8,22.7,,,,,,
+Tsai,2010,LOS,P,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 4,uncomplicated; label says median/IQR but values are mean±SD,23,36.56,31.47,,,,,,,12,33.25,8.74,,,,,,
+Tsai,2010,LOS,A,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 4,all infants incl complicated in PC arm,32,55.91,64.13,,,,,,,12,33.25,8.74,,,,,,
+Tsai,2010,FF,P,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 4,uncomplicated; label says median/IQR but values are mean±SD,23,34.57,30.59,,,,,,,12,32.01,7.83,,,,,,
+Tsai,2010,FF,A,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 4,all infants incl complicated in PC arm,32,38.52,29.76,,,,,,,12,32.01,7.83,,,,,,
+Tsai,2010,VD,P,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 4,uncomplicated; label says median/IQR but values are mean±SD,23,5.62,7.89,,,,,,,12,7.0,5.24,,,,,,
+Tsai,2010,VD,A,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,Table 4,all infants incl complicated in PC arm,32,18.31,49.0,,,,,,,12,7.0,5.24,,,,,,
+Tsai,2010,DEATH,P,DC_vs_FC,DC,FC,NRS,unrestricted,,events,Table 4,,23,,,,,,,,2,12,,,,,,,,2
+Tsai,2010,DEATH,A,DC_vs_FC,DC,FC,NRS,unrestricted,,events,Table 4,,32,,,,,,,,5,12,,,,,,,,2
+Witt,2019,LOS,P,SL_vs_FC,SL,FC,NRS,unrestricted,,mean±SD,Table 2,simple gastroschisis,43,32.5,15.0,,,,,,,36,31.3,13.4,,,,,,
+Witt,2019,LOS,A,SL_vs_FC,SL,FC,NRS,unrestricted,,mean±SD,Table 2,all gastroschisis,50,43.9,40.4,,,,,,,40,36.7,21.2,,,,,,
+Witt,2019,FF,P,SL_vs_FC,SL,FC,NRS,unrestricted,,mean±SD,Table 2,simple gastroschisis,43,27.3,13.2,,,,,,,36,23.9,10.2,,,,,,
+Witt,2019,FF,A,SL_vs_FC,SL,FC,NRS,unrestricted,,mean±SD,Table 2,all gastroschisis,50,31.4,20.2,,,,,,,40,27.9,17.3,,,,,,
+Witt,2019,PN,P,SL_vs_FC,SL,FC,NRS,unrestricted,,mean±SD,Table 2,simple gastroschisis,43,25.3,12.7,,,,,,,36,22.6,10.1,,,,,,
+Witt,2019,PN,A,SL_vs_FC,SL,FC,NRS,unrestricted,,mean±SD,Table 2,all gastroschisis,50,33.5,29.8,,,,,,,40,27.4,18.2,,,,,,
+Witt,2019,VD,P,SL_vs_FC,SL,FC,NRS,unrestricted,,mean±SD,Table 2,simple gastroschisis,43,6.5,9.5,,,,,,,36,2.4,3.0,,,,,,
+Witt,2019,SEPSIS,P,SL_vs_FC,SL,FC,NRS,unrestricted,,events,Table 3,positive blood culture,43,,,,,,,,3,36,,,,,,,,2
+Witt,2019,HERNIA,P,SL_vs_FC,SL,FC,NRS,unrestricted,,events,Table 3,umbilical hernia requiring operation,43,,,,,,,,0,36,,,,,,,,5
+Bruzoni,2017,VD,P,SL_vs_FC,SL,FC,RCT,simple_only,,mean±SD,Table 2,RCT; uncomplicated,20,3.15,2.37,,,,,,,19,1.89,1.7,,,,,,
+Bruzoni,2017,FF,P,SL_vs_FC,SL,FC,RCT,simple_only,,mean±SD,Table 2,RCT; uncomplicated,20,27.8,20.0,,,,,,,19,45.1,27.3,,,,,,
+Bruzoni,2017,LOS,P,SL_vs_FC,SL,FC,RCT,simple_only,,mean±SD,Table 2,RCT; uncomplicated,20,31.4,19.73,,,,,,,19,49.3,24.0,,,,,,
+Bruzoni,2017,SEPSIS,P,SL_vs_FC,SL,FC,RCT,simple_only,,events,Table 3,,20,,,,,,,,3,19,,,,,,,,8
+Bruzoni,2017,DEATH,P,SL_vs_FC,SL,FC,RCT,simple_only,,events,Table 3,,20,,,,,,,,0,19,,,,,,,,0
+Owen2006,2006,VD,P,DC_vs_FC,DC,FC,NRS,simple_only,,median(range),Table 2,matched case-control; OFC vs preformed silo no GA,27,,,4,,,1,16,,21,,,0,,,0,19,
+Owen2006,2006,FF,P,DC_vs_FC,DC,FC,NRS,simple_only,,median(range),Table 2,matched case-control; OFC vs preformed silo no GA,27,,,26,,,12,102,,21,,,31,,,17,90,
+Owen2006,2006,PN,P,DC_vs_FC,DC,FC,NRS,simple_only,,median(range),Table 2,matched case-control; OFC vs preformed silo no GA,27,,,25,,,10,101,,21,,,30,,,15,90,
+Owen2006,2006,LOS,P,DC_vs_FC,DC,FC,NRS,simple_only,,median(range),Table 2,matched case-control; OFC vs preformed silo no GA,27,,,32,,,15,120,,21,,,36,,,20,164,
+Owen2006,2006,NEC,P,DC_vs_FC,DC,FC,NRS,simple_only,,events,Table 3,,27,,,,,,,,4,21,,,,,,,,2
+Poola,2019,LOS,P,DC_vs_FC,DC,FC,RCT,simple_only,,median(IQR),Table 2,truncated RCT; atresia/necrosis excluded,20,,,24,18.5,40,,,,18,,,26.5,21,31,,,
+Poola,2019,VD,P,DC_vs_FC,DC,FC,RCT,simple_only,,median(IQR),Table 2,truncated RCT; atresia/necrosis excluded,20,,,3.3,1.6,5,,,,18,,,4.9,3.1,6.6,,,
+Poola,2019,FF,P,DC_vs_FC,DC,FC,RCT,simple_only,,median(IQR),Table 2,truncated RCT; atresia/necrosis excluded,20,,,18,13.5,30,,,,18,,,20,15,23,,,
+Poola,2019,HERNIA,P,DC_vs_FC,DC,FC,RCT,simple_only,,events,prior extraction (verify),,20,,,,,,,,2,18,,,,,,,,2
+Emami,2015,VD,P,SL_vs_FC,SL,FC,NRS,unrestricted,,median(range),Table 3,FLAP closure (sutureless-type); GPS<2,344,,,4,,,0,28,,112,,,3,,,0,23,
+Emami,2015,LOS,P,SL_vs_FC,SL,FC,NRS,unrestricted,,median(range),Table 3,FLAP closure (sutureless-type); GPS<2,344,,,32,,,2,395,,112,,,30,,,6,430,
+Emami,2015,PN,P,SL_vs_FC,SL,FC,NRS,unrestricted,,median(range),Table 3,FLAP closure (sutureless-type); GPS<2,344,,,25,,,2,401,,112,,,26,,,8,373,
+Emami,2015,LOS,A,SL_vs_FC,SL,FC,NRS,unrestricted,,median(range),Table 2,all infants,436,,,36,,,4,626,,129,,,31,,,4,430,
+Emami,2015,DEATH,P,SL_vs_FC,SL,FC,NRS,unrestricted,,events,Table 3,,344,,,,,,,,3,112,,,,,,,,1
+Emami,2015,DEATH,A,SL_vs_FC,SL,FC,NRS,unrestricted,,events,Table 2,,436,,,,,,,,9,129,,,,,,,,2
+Hawkins,2020,LOS,M,DC_vs_FC,DC,FC,NRS,unrestricted,H1,median(range),Table 2,silo subgroup 1; n approximated from outcome N=433; LOS range for silo<=5d printed 14-920; read as 14-92,171,,,34,,,1,221,,99,,,34,,,14,92,
+Hawkins,2020,LOS,M,DC_vs_FC,DC,FC,NRS,unrestricted,H2,median(range),Table 2,silo subgroup 2; n approximated from outcome N=433; LOS range for silo<=5d printed 14-920; read as 14-92,171,,,34,,,1,221,,107,,,45,,,5,197,
+Hawkins,2020,LOS,M,DC_vs_FC,DC,FC,NRS,unrestricted,H3,median(range),Table 2,silo subgroup 3; n approximated from outcome N=433; LOS range for silo<=5d printed 14-920; read as 14-92,171,,,34,,,1,221,,44,,,62,,,1,306,
+Hawkins,2020,VD,M,DC_vs_FC,DC,FC,NRS,unrestricted,H1,median(range),Table 2,silo subgroup 1; n approximated from outcome N=430; ,170,,,3,,,1,42,,99,,,5,,,1,138,
+Hawkins,2020,VD,M,DC_vs_FC,DC,FC,NRS,unrestricted,H2,median(range),Table 2,silo subgroup 2; n approximated from outcome N=430; ,170,,,3,,,1,42,,106,,,9,,,1,108,
+Hawkins,2020,VD,M,DC_vs_FC,DC,FC,NRS,unrestricted,H3,median(range),Table 2,silo subgroup 3; n approximated from outcome N=430; ,170,,,3,,,1,42,,43,,,13.5,,,1,194,
+Hawkins,2020,PN,M,DC_vs_FC,DC,FC,NRS,unrestricted,H1,median(range),Table 2,silo subgroup 1; n approximated from outcome N=365; ,144,,,26.5,,,2,1718,,84,,,24,,,4,138,
+Hawkins,2020,PN,M,DC_vs_FC,DC,FC,NRS,unrestricted,H2,median(range),Table 2,silo subgroup 2; n approximated from outcome N=365; ,144,,,26.5,,,2,1718,,90,,,31,,,1,334,
+Hawkins,2020,PN,M,DC_vs_FC,DC,FC,NRS,unrestricted,H3,median(range),Table 2,silo subgroup 3; n approximated from outcome N=365; ,144,,,26.5,,,2,1718,,37,,,34,,,1,229,
+Hawkins,2020,FF,M,DC_vs_FC,DC,FC,NRS,unrestricted,H1,median(range),Table 2,silo subgroup 1; n approximated from outcome N=147; ,58,,,22,,,1,142,,34,,,23,,,6,106,
+Hawkins,2020,FF,M,DC_vs_FC,DC,FC,NRS,unrestricted,H2,median(range),Table 2,silo subgroup 2; n approximated from outcome N=147; ,58,,,22,,,1,142,,36,,,31,,,13,536,
+Hawkins,2020,FF,M,DC_vs_FC,DC,FC,NRS,unrestricted,H3,median(range),Table 2,silo subgroup 3; n approximated from outcome N=147; ,58,,,22,,,1,142,,15,,,70.5,,,26,229,
+Hawkins,2020,SEPSIS,M,DC_vs_FC,DC,FC,NRS,unrestricted,,events,Table 2,,224,,,,,,,,44,327,,,,,,,,61
+Hawkins,2020,HERNIA,M,DC_vs_FC,DC,FC,NRS,unrestricted,,events,Table 2,,224,,,,,,,,27,327,,,,,,,,20
+Hawkins,2020,DEATH,M,DC_vs_FC,DC,FC,NRS,unrestricted,,events,Table 2,,224,,,,,,,,10,327,,,,,,,,12
+Schmidt,2011,LOS,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,prior extraction,SEM converted,24,34.2,20.086,,,,,,,21,38.4,27.495,,,,,,
+Schmidt,2011,PN,M,DC_vs_FC,DC,FC,NRS,unrestricted,,mean±SD,prior extraction,SEM converted,24,25.7,16.657,,,,,,,21,31.0,28.412,,,,,,
+Schmidt,2011,SEPSIS,M,DC_vs_FC,DC,FC,NRS,unrestricted,,events,prior extraction,,24,,,,,,,,13,21,,,,,,,,9

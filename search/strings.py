@@ -1,0 +1,6 @@
+P_TERMS=['gastroschis*','gastrochis*','gastroskis*','laparoschisis','paraomphalocele']
+I_TERMS=['closure','repair','silo','silastic','"spring-loaded"','"spring loaded"','preformed','sutureless','"sutureless closure"','"umbilical cord"','staged','"staged reduction"','"staged closure"','"delayed closure"','"delayed repair"','"primary closure"','"primary repair"','"immediate closure"','"immediate repair"','"fascial closure"','sutured','"plastic closure"','flap','bedside','"abdominal wall closure"','"cord closure"','"cord-based"','"cord protection"','reduction','bianchi','surgery','surgical','operative','management','treatment','technique*','sac','silon']
+def tiab(terms,f): return ' OR '.join(f'{t}[{f}]' for t in terms)
+PUBMED=('("Gastroschisis"[Mesh] OR '+tiab(P_TERMS,'tiab')+') AND ("Abdominal Wall/surgery"[Mesh] OR "Plastic Surgery Procedures"[Mesh] OR "Surgical Flaps"[Mesh] OR "Suture Techniques"[Mesh] OR "Umbilical Cord"[Mesh] OR '+tiab(I_TERMS,'tiab')+')')
+def ep(terms): return '('+' OR '.join(f'TITLE_ABS:{t}' for t in terms)+')'
+EUROPEPMC='('+ep(P_TERMS)+' OR (MESH:"Gastroschisis")) AND ('+ep(I_TERMS)+' OR (MESH:"Abdominal Wall/surgery") OR (MESH:"Surgical Flaps") OR (MESH:"Suture Techniques"))'
