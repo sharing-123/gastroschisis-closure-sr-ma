@@ -86,7 +86,7 @@ R packages: meta, metafor, netmeta, estmeansd, gt. Paths inside the scripts poin
 
 ## Cite
 
-See `CITATION.cff`. A Zenodo archive and its DOI will be added with the first release.
+See `CITATION.cff`. Zenodo archive: https://doi.org/10.5281/zenodo.24486543
 
 ## Credits
 
