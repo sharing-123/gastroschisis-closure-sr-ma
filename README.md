@@ -86,6 +86,10 @@ R packages: meta, metafor, netmeta, estmeansd, gt. Paths inside the scripts poin
 
 See `CITATION.cff`. A Zenodo archive and its DOI will be added with the first release.
 
+## Credits
+
+Banner anatomy: Ecorche (BodyParts3D, Z-Anatomy), CC BY-SA 4.0. See `assets/NOTICE.md`.
+
 ## License
 
 Code under MIT. Data and text under CC BY 4.0. See `LICENSE`.
