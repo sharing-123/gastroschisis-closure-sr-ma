@@ -1,0 +1,17 @@
+{
+ "_help": "Fill each value with a whole number (or send the numbers to Claude). null means unknown. scopus, cochrane, ebsco, proquest are record counts from the strings in Supplementary Table S1 run on one day. dup is duplicates removed from database and register records. screened is records screened on title and abstract. excluded_screen is records excluded at title and abstract. sought, not_retrieved and assessed are the full-text stages of the database arm. wrong_pop, no_comp and no_arm are exclusion reasons. studies_included and reports_included are the final counts.",
+ "scopus": 3375,
+ "cochrane": 92,
+ "ebsco": 1788,
+ "dup": 3146,
+ "screened": 6012,
+ "excluded_screen": 5874,
+ "sought": 138,
+ "not_retrieved": 0,
+ "assessed": 138,
+ "wrong_pop": 22,
+ "no_comp": 57,
+ "no_arm": 17,
+ "studies_included": 42,
+ "reports_included": 42
+}
