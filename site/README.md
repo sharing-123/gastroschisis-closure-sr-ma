@@ -1,9 +1,5 @@
-# Landing page
+# Website
 
-Static site (no build step): `index.html`, `style.css`, `main.js`, `data.json` (study-level and pooled estimates from `analysis/`), `anatomy.bin` (point cloud of the abdominal wall from Ecorche, CC BY-SA 4.0). Three.js and Lenis load from jsDelivr.
+Vite + TypeScript + Three.js + GSAP. `npm ci && npm run build` writes the site to `../docs`, which GitHub Pages serves. `npm run dev` for development.
 
-```powershell
-python -m http.server 8793 -d site
-```
-
-`tools/export_data.py` regenerates `data.json` and `anatomy.bin` (needs `ecorche.glb` from https://github.com/Charleeh/ecorche and the GLB loader used in `scripts/`).
+Anatomy: Ecorche (CC BY-SA 4.0, from BodyParts3D and Z-Anatomy), `public/models/ecorche.meshopt.glb`. `public/data.json` holds the study-level and pooled estimates from `analysis/`.

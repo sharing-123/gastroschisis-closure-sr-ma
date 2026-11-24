@@ -1,0 +1,80 @@
+:root {
+  --bg: #050506;
+  --surface: #0e1013;
+  --surface-2: #14171b;
+  --line: rgba(236, 232, 226, 0.11);
+  --line-strong: rgba(236, 232, 226, 0.22);
+  --text: #ece8e2;
+  --muted: #8f9197;
+  --faint: #5d5f66;
+  --ink: #5fe8c8;
+  --ink-soft: #c8fff0;
+  --mark: #ff8f6e;
+  --ok: #7fd6a4;
+  --warn: #ffc46b;
+  --bad: #ff7d7d;
+  --font: 'Hanken Grotesk Variable', 'Hanken Grotesk', system-ui, sans-serif;
+  --serif: 'Instrument Serif', 'Times New Roman', serif;
+  --mono: 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, monospace;
+  --ease: cubic-bezier(0.23, 1, 0.32, 1);
+  --pad: clamp(20px, 3.4vw, 52px);
+  color-scheme: dark;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { background: var(--bg); -webkit-text-size-adjust: 100%; scrollbar-color: #2a2c31 var(--bg); }
+body {
+  margin: 0; background: var(--bg); color: var(--text); font-family: var(--font); font-weight: 400;
+  font-size: 1rem; line-height: 1.55; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+h1, h2, h3, p, ul, ol { margin: 0; }
+ul, ol { padding: 0; list-style: none; }
+a { color: inherit; text-decoration: none; }
+button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; padding: 0; }
+:focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; border-radius: 4px; }
+::selection { background: var(--ink); color: #0b0b10; }
+em { font-family: var(--serif); font-style: italic; font-weight: 400; font-size: 1.1em; letter-spacing: 0; color: #e6fff7; }
+
+#world { position: fixed; inset: 0; width: 100%; height: 100%; display: block; z-index: 0; background: var(--bg); touch-action: pan-y; }
+body[data-view='studio'] #world { visibility: hidden; }
+body[data-view='studio'] #landing { display: none; }
+
+/* header */
+.top {
+  position: fixed; inset: 0 0 auto 0; z-index: 30; display: flex; align-items: center; justify-content: space-between;
+  height: 72px; padding: 0 var(--pad); pointer-events: none;
+}
+.top > * { pointer-events: auto; }
+.brand { display: inline-flex; align-items: center; gap: 10px; font-weight: 500; letter-spacing: -0.01em; font-size: 1.02rem; color: var(--text); }
+.brand svg { color: var(--ink); }
+.top-nav { display: flex; align-items: center; gap: clamp(16px, 2.4vw, 34px); font-family: var(--mono); font-size: 0.78rem; color: var(--muted); }
+.top-nav a { transition: color 160ms var(--ease); }
+.top-nav a:hover { color: var(--text); }
+.nav-cta { color: #04140f; background: var(--ink); font-weight: 600; padding: 8px 14px; border: 1px solid var(--ink); border-radius: 8px; transition: background-color 160ms var(--ease), border-color 160ms var(--ease), transform 160ms var(--ease); }
+.nav-cta:hover { background: #a6f6e4; }
+.nav-cta:active { transform: scale(0.97); }
+.lang { display: inline-flex; align-items: center; gap: 7px; }
+.lang button { padding: 6px 2px; color: var(--faint); font-family: var(--mono); font-size: 0.78rem; transition: color 160ms var(--ease); }
+.lang button:hover { color: var(--muted); }
+.lang button[aria-pressed='true'] { color: var(--text); }
+.lang span { color: var(--faint); }
+
+@media (max-width: 720px) {
+  .top { height: 60px; }
+  .top-nav a:not(.nav-cta) { display: none; }
+  .top-nav { gap: 12px; }
+  .brand span { display: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; scroll-behavior: auto !important; }
+}
+
+.veil { position: fixed; inset: 0; z-index: 60; display: grid; place-items: center; background: var(--bg); transition: opacity 900ms var(--ease), visibility 0s linear 900ms; font-family: var(--mono); font-size: 0.8rem; color: var(--faint); }
+.veil.gone { opacity: 0; visibility: hidden; pointer-events: none; }
+.no-webgl #landing { pointer-events: auto; }
+.no-webgl .chapter { min-height: auto; padding-top: 12vh; }
+.no-webgl .copy, .no-webgl .hero-copy, .no-webgl .studio-copy { position: static; }
+
+body[data-view='studio'] .hud, body[data-view='studio'] .rail-nav, body[data-view='studio'] .tags, body[data-view='studio'] .sweep { display: none !important; }
