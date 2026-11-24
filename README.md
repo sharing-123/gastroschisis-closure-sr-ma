@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/data-CC%20BY%204.0-1f3a5f?style=flat-square" alt="CC BY 4.0">
 </p>
 
+**OSF registration:** https://doi.org/10.17605/OSF.IO/WB3F4
+
 **Website:** https://sharing-123.github.io/gastroschisis-closure-sr-ma/
 
 Data, analysis code and search materials behind the manuscript. Everything needed to rerun the pooled estimates, the sensitivity analyses, the GRADE tables and the figures is here.

@@ -17,3 +17,7 @@ authors:
   - family-names: Lia
     given-names: Emiliana
 license: CC-BY-4.0
+identifiers:
+  - type: doi
+    value: 10.17605/OSF.IO/WB3F4
+    description: OSF registration
